@@ -1,0 +1,91 @@
+ping google.com
+nmcli con up enps1p0
+ip -c a
+nmtui
+ping google.com
+nmtui
+ping google.com
+nmtui
+df -h
+ping google.comexit
+ls
+pwd
+df -h
+arp -a
+ping google.com
+arp -a google.com
+arp
+route 
+route google.com
+cd /home
+ls
+pwd
+ls
+sudo -i
+history 
+man pwd
+ls /
+ls /home
+ls /tmp
+ls /usr
+ls /var
+ls /afs
+ls /bin
+ls 
+ls /boot
+ls /dev
+ls /etc
+ls 
+ls /home
+ls /lib
+ls /lib64
+ls
+ls /media/
+ls /mnt
+ls /opt
+ls /proc
+ls /root
+ls /run
+ls /sbin
+ls
+ls /srv
+ls /sys
+ls /tmp
+ls /usr
+ls /var
+cd /cache
+cd /var
+ls
+cd /cache
+ls
+cd cache/
+ls
+cd bpf
+ls
+cd ..
+cd dnf
+ls
+cd packages.db 
+cd expired_repos.json 
+cat expired_repos.json 
+ls
+cd ..
+cd /
+pwd
+ls /
+ls /home
+ls
+man ls 
+ls -a
+ls -A
+ls .
+ls ..
+ls -l
+ls -l /dev
+ls
+pwd
+cd /home/
+ls
+sudo
+pwd 
+sudo -i
